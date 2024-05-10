@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735378306632",
+    "project_id": "smartvestappproject",
+    "storage_bucket": "smartvestappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735378306632:android:fafc8f9261f17a6b2aca7d",
+        "android_client_info": {
+          "package_name": "com.example.application1_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_oXWUJMrDzkh6SkUI2qkw49wERicGHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
